@@ -1,0 +1,134 @@
+@import url(https://fonts.googleapis.com/css?family=Michroma&display=swap);
+body{
+    font-family: Michroma, serif;
+    background: linear-gradient(90deg, #a5dff8 0%, #b382a5 100%);
+}
+footer{
+    margin-top: 35px;
+}
+#w3c-caru{
+    width: 270px;
+    margin-left: 20px ;
+    margin-top: 0px;
+}
+#html5-caru{
+    width: 290px;
+    margin-left: 190px ;
+    margin-top: 50px;
+}
+#css-caru{
+    width: 260px;
+    margin-left: 190px ;
+    margin-top: 35px;
+}
+#css-html4{
+    width: 220px;
+    margin-left: 190px ;
+    margin-top: 25px;
+}
+#WHATWG{
+    width: 420px;
+    margin-left: 30px ;
+    margin-top: 35px;
+}
+.row a{
+    text-decoration: none
+}
+.relevance{
+    display: inline-block;
+    border-style: solid;
+    border-width: 0.5px;
+    padding-right: 10px;
+}
+.carousel-indicators{
+    margin-left: 500px;
+    margin-top: 70px;
+}
+.introd p{
+    font-size: 19px;
+}
+.introd h1{
+    display: flex;
+    justify-content: center;
+}
+.introd h2{
+    display: flex;
+    justify-content: center;
+}
+.introd h3{
+    display: flex;
+    justify-content: center;
+}
+.introd h4{
+    display: flex;
+    justify-content: center;
+}
+.introd h5{
+    display: flex;
+    justify-content: center;
+}
+.navbar-brand img{
+    width: 200px;
+}
+.navbar-toggler{
+    background: linear-gradient(13deg, #1e2166 18%, #92f48b 100%);
+}
+.sidebar {
+    background: linear-gradient(30deg, #3607f2 0%, #489c61 100%);
+    box-shadow: 9px 6px 12px 5px #201e1e;
+}
+.card{
+    background: linear-gradient(270deg, #3607f2 0%, #3a8751 100%);
+    box-shadow: 9px 6px 12px 5px #201e1e;
+}
+.nav-img{
+    width: 70px;
+}
+.mypfoto{
+    width: 160px;
+}
+.nav-img2{
+    width: 51px;
+}
+.card a {
+    text-decoration: none;
+}
+.footer-text {
+    font-size: 13px;
+}
+.slide-text,
+.footer-text {
+    margin: auto auto
+}
+footer,
+.btn-outline-light{
+    background: rgb(214, 214, 214);
+}
+.navbar{
+    background-color: rgb(240, 240, 240);
+}
+.media-li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-text{
+    color: black;
+}
+.container-fluid{
+    margin-top: 1em;
+}
+.img-cont {
+    float: right;
+    border-style: solid;
+    border-width: 0.5px;
+    padding: 5px;
+    margin-left: 20px;
+    justify-content: center;
+    margin-right: 5px;
+}
+@media(max-width: 755px){
+    .carousel-indicators{
+        display: none;
+    }
+}
