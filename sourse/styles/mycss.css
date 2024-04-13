@@ -40,6 +40,12 @@ footer{
     border-width: 0.5px;
     padding-right: 10px;
 }
+.mypfotobut{
+    box-shadow: 2px 6px 16px 0px #545454;
+    border: 3px solid #7d8a97;
+    border-radius: 20px;
+    background: linear-gradient(270deg, #a5dff8 0%, #b382a5 100%);   
+}
 .carousel-indicators{
     margin-left: 500px;
     margin-top: 70px;
@@ -75,14 +81,14 @@ footer{
     width: 200px;
 }
 .navbar-toggler{
-    background: linear-gradient(13deg, #1e2166 18%, #92f48b 100%);
+    background: linear-gradient(270deg, #a5dff8 0%, #b382a5 100%);
 }
 .sidebar {
-    background: linear-gradient(30deg, #3607f2 0%, #489c61 100%);
+    background: linear-gradient(270deg, #a5dff8 0%, #b382a5 100%);
     box-shadow: 9px 6px 12px 5px #201e1e;
 }
 .card{
-    background: linear-gradient(270deg, #3607f2 0%, #3a8751 100%);
+    background: linear-gradient(270deg, #a5dff8 0%, #b382a5 100%);
     box-shadow: 9px 6px 12px 5px #201e1e;
 }
 .nav-img{
